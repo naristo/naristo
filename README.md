@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+## I'm Aris
+- 
+- 🔭 I’m currently working on PT Bank BTPN
+- :trophy:  I'm an Elastic Certified Engineer
+- 🌱 I’m currently learning some python and js
+- 💬 We can tallk about : monitoring, docker, devOps 
+- 📫 How to reach me: nia.aristo@gmail.com
+- ⚡ Fun fact: My Zodiac is always changing
+
+
+
 <!--
 **naristo/naristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
