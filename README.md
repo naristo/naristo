@@ -1,13 +1,22 @@
 ### Hi there 👋
 
 ## I'm Aris
-- 
+
 - 🔭 I’m currently working on PT Bank BTPN
-- :trophy:  I'm an Elastic Certified Engineer
+- :trophy:  I'm an Elastic Certified Engineer 
 - 🌱 I’m currently learning some python and js
 - 💬 We can tallk about : monitoring, docker, devOps 
-- 📫 How to reach me: nia.aristo@gmail.com
+- 📫 How to reach me: 
+  - :email: nia.aristo@gmail.com
+  - :globe_with_meridians:	[LinkedIn](https://www.linkedin.com/in/nia-aristo/)
 - ⚡ Fun fact: My Zodiac is always changing
+
+
+## Badge
+
+<img src="https://badge.trueability.com/issued_certifications/OKqDKvdWwvQ.png" alt="ECE badge"
+	title="Elastic Certified Engineer" width="200" />
+
 
 
 
