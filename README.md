@@ -15,7 +15,7 @@
 ## Badge
 
 <img src="https://badge.trueability.com/issued_certifications/OKqDKvdWwvQ.png" alt="ECE badge"
-	title="Elastic Certified Engineer" width="200" />
+	title="Elastic Certified Engineer" width="180" /> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27621066" alt="Elastic Community badge" title="Elastic Community Organizer" width="200" />
 
 
 
