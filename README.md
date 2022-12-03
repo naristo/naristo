@@ -2,7 +2,7 @@
 
 ## I'm Aris
 
-- 🔭 I’m currently working on ~PT Bank BTPN~ PT BTPN Syariah
+- 🔭 I’m currently working on ~PT Bank BTPN~ PT BTPN Syariah as DevOps Engineer
 - :trophy:  I'm an Elastic Certified Engineer 
 - 🌱 I’m currently learning some python and js
 - 💬 We can tallk about : monitoring, docker, devOps 
