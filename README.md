@@ -16,7 +16,6 @@
 
 <img src="https://badge.trueability.com/issued_certifications/OKqDKvdWwvQ.png" alt="ECE badge"
 	title="Elastic Certified Engineer" width="180" /> <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/27621066" alt="Elastic Community badge" title="Elastic Community Organizer" width="200" />
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="94282942-40b7-4b40-82d7-49a15c7151e1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
